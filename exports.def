@@ -1,0 +1,4 @@
+LIBRARY	"STUF VR"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
